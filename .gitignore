@@ -1,0 +1,7 @@
+*.out
+*.min
+*.cfg
+*.o
+*.obj
+*.sre
+*.map
